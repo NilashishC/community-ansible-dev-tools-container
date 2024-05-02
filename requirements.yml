@@ -1,6 +1,5 @@
 ---
 collections:
-  - name: ansible.netcommon
-  - name: ansible.posix
-  - name: ansible.scm
-  - name: ansible.utils
+  - name: infra.controller_configuration
+  - name: awx.awx
+  - name: infra.ee_utilities
